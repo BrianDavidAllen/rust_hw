@@ -1,0 +1,1 @@
+/home/brian/cs410rust/hw2/hw2/isbn-verifier/target/debug/isbn_verifier-0cc4b87206dcafa0: /home/brian/cs410rust/hw2/hw2/isbn-verifier/src/lib.rs /home/brian/cs410rust/hw2/hw2/isbn-verifier/src/main.rs /home/brian/cs410rust/hw2/hw2/isbn-verifier/tests/isbn-verifier.rs
